@@ -1,0 +1,19 @@
+{
+  "name": "discord-aquacoin-bot",
+  "version": "3.0.0",
+  "description": "Bot Discord tích hợp Tài Xỉu (có cầu), Nông Trại và Ma Sói",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  },
+  "author": "YourName",
+  "license": "ISC"
+}
+
